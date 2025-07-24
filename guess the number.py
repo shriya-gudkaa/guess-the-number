@@ -18,13 +18,13 @@ while guess != num_guess and tries < 5:
         print("Too low")
     else:
         print("you have guessed it right",num_guess,"is the correct answer")
-    if tries == 3:
+    if tries == 3 and guess != num_guess:
         if num_guess % 2 == 0:
             print("Hint: The number is even.")
         else:
             print("Hint: The number is odd.")
 
-    if tries == 6:
+    if tries == 5 and guess != num_guess:
         if num_guess % 3 == 0:
             print("Hint: The number is a multiple of 3.")
         elif num_guess % 5 == 0:
