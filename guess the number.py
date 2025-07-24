@@ -1,4 +1,3 @@
-print("Welcome to the Guess the Number Game!")
 import random
 import time
 
