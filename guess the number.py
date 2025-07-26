@@ -23,14 +23,6 @@ while guess != num_guess and tries < 5:
             print("Hint: The number is even.")
         else:
             print("Hint: The number is odd.")
-
-    if tries == 5 and guess != num_guess:
-        if num_guess % 3 == 0:
-            print("Hint: The number is a multiple of 3.")
-        elif num_guess % 5 == 0:
-            print("Hint: The number is a multiple of 5.")
-        else:
-            print("Hint: The number is not a multiple of 3 or 5.")
 end_time = time.time()
 total_time = end_time - start_time
 
