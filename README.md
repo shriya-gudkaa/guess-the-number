@@ -27,8 +27,9 @@ But wait—it’s not that simple! ⏳ You only have **5 tries** and your **scor
 
 ---
 
-## 🚀 Try the Game Here!  
-👉 [🎮 Play Now!](https://shriya-gudkaa.github.io/guess-the-number/)
+## 🚀 Demo  
+[![Play Demo](https://img.shields.io/badge/🎮%20Play%20Now!-Click%20Here-brightgreen?style=for-the-badge&logo=github)](https://shriya-gudkaa.github.io/guess-the-number/)
+
 
 ---
 
